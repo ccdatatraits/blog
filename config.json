@@ -1,0 +1,23 @@
+{
+    "siteTitle": "Sohail's Blog",
+    "outputDir": "_site",
+    "copy": {
+        "/posts": "/"
+    },
+    "feed": {
+        "type": "rss",
+        "title": "Sohail's Blog",
+        "description": "Sohail's Blog Posts",
+        "id": "https://datatraits.com",
+        "link": "https://datatraits.com/posts",
+        "image": "https://datatraits.com/img/logo.png",
+        "copyright": "Copyright: Sohail",
+        "language": "en",
+        "generator": "Elmstatic",
+        "author": {
+          "name": "Sohail",
+          "link": "https://datatraits.com/about"
+        }
+    },
+    "tags": ["other", "software"]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sohail&apos;s Blog</title>
+        <link>https://datatraits.com/posts</link>
+        <description>Sohail&apos;s Blog Posts</description>
+        <lastBuildDate>Tue, 17 Aug 2021 18:12:49 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Elmstatic</generator>
+        <language>en</language>
+        <image>
+            <title>Sohail&apos;s Blog</title>
+            <url>https://datatraits.com/img/logo.png</url>
+            <link>https://datatraits.com/posts</link>
+        </image>
+        <copyright>Copyright: Sohail</copyright>
+        <item>
+            <title><![CDATA[Elmstatic now supports elm-markup]]></title>
+            <link>https://datatraits.com/posts/2019-07-29-elmstatic-supports-elm-markup</link>
+            <guid>https://datatraits.com/posts/2019-07-29-elmstatic-supports-elm-markup</guid>
+            <pubDate>Mon, 29 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
