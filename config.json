@@ -1,6 +1,6 @@
 {
     "siteTitle": "Sohail's Blog",
-    "outputDir": "_site",
+    "outputDir": "docs",
     "copy": {
         "/posts": "/"
     },
